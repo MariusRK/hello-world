@@ -1,5 +1,5 @@
 # hello-world
-This repository is made by following the GitHub "Hello World" guide. 
+This repository was made by following the GitHub "Hello World" guide. 
 
 Hello everyone!
 
